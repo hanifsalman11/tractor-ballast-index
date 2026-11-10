@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "tractor_name": "Kubota L2501 / L3301 / L3901 (LA525 / LA526 Loader)",
+    "slug": "kubota-l2501-l3301-l3901-la525-la526-loader-counterweight-ballast-calculator",
+    "title": "Kubota L2501 / L3301 / L3901 (LA525 / LA526 Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (810 lbs / 9 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 660-lb pallet fork capacity for Kubota L2501 / L3301 / L3901 (LA525 / LA526 Loader).",
+    "box_lbs": 810,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-10"
+  },
+  {
+    "tractor_name": "Kubota BX2380 / BX2680 (LA344S Sub-Compact Loader)",
+    "slug": "kubota-bx2380-bx2680-la344s-sub-compact-loader-counterweight-ballast-calculator",
+    "title": "Kubota BX2380 / BX2680 (LA344S Sub-Compact Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (530 lbs / 5 bags concrete), 75% rear tire liquid fill (15.0 gal = 162 lbs Beet Juice), and 430-lb pallet fork capacity for Kubota BX2380 / BX2680 (LA344S Sub-Compact Loader).",
+    "box_lbs": 530,
+    "gal_pair": 15.0,
+    "beet_lbs": 162,
+    "date": "2026-11-10"
+  },
+  {
+    "tractor_name": "Kubota BX23S Tractor Loader Backhoe (LA340 Loader)",
+    "slug": "kubota-bx23s-tractor-loader-backhoe-la340-loader-counterweight-ballast-calculator",
+    "title": "Kubota BX23S Tractor Loader Backhoe (LA340 Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (530 lbs / 5 bags concrete), 75% rear tire liquid fill (15.0 gal = 162 lbs Beet Juice), and 430-lb pallet fork capacity for Kubota BX23S Tractor Loader Backhoe (LA340 Loader).",
+    "box_lbs": 530,
+    "gal_pair": 15.0,
+    "beet_lbs": 162,
+    "date": "2026-11-10"
+  }
+]
