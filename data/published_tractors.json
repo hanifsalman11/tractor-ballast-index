@@ -58,5 +58,35 @@
     "gal_pair": 72.0,
     "beet_lbs": 778,
     "date": "2026-11-11"
+  },
+  {
+    "tractor_name": "Kubota MX5400 / MX6000 (LA1065 Utility Loader)",
+    "slug": "kubota-mx5400-mx6000-la1065-utility-loader-counterweight-ballast-calculator",
+    "title": "Kubota MX5400 / MX6000 (LA1065 Utility Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,640 lbs / 19 bags concrete), 75% rear tire liquid fill (80.0 gal = 864 lbs Beet Juice), and 1320-lb pallet fork capacity for Kubota MX5400 / MX6000 (LA1065 Utility Loader).",
+    "box_lbs": 1640,
+    "gal_pair": 80.0,
+    "beet_lbs": 864,
+    "date": "2026-11-11"
+  },
+  {
+    "tractor_name": "John Deere 1025R Sub-Compact (120R Quik-Park Loader)",
+    "slug": "john-deere-1025r-sub-compact-120r-quik-park-loader-counterweight-ballast-calculator",
+    "title": "John Deere 1025R Sub-Compact (120R Quik-Park Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (550 lbs / 6 bags concrete), 75% rear tire liquid fill (15.0 gal = 162 lbs Beet Juice), and 440-lb pallet fork capacity for John Deere 1025R Sub-Compact (120R Quik-Park Loader).",
+    "box_lbs": 550,
+    "gal_pair": 15.0,
+    "beet_lbs": 162,
+    "date": "2026-11-11"
+  },
+  {
+    "tractor_name": "John Deere 2025R / 2032R (220R Front-End Loader)",
+    "slug": "john-deere-2025r-2032r-220r-front-end-loader-counterweight-ballast-calculator",
+    "title": "John Deere 2025R / 2032R (220R Front-End Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (810 lbs / 9 bags concrete), 75% rear tire liquid fill (30.0 gal = 324 lbs Beet Juice), and 650-lb pallet fork capacity for John Deere 2025R / 2032R (220R Front-End Loader).",
+    "box_lbs": 810,
+    "gal_pair": 30.0,
+    "beet_lbs": 324,
+    "date": "2026-11-11"
   }
 ]
