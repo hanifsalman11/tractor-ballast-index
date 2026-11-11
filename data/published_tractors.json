@@ -28,5 +28,35 @@
     "gal_pair": 15.0,
     "beet_lbs": 162,
     "date": "2026-11-10"
+  },
+  {
+    "tractor_name": "Kubota B2601 / B2301 (LA435 Swift-Tach Loader)",
+    "slug": "kubota-b2601-b2301-la435-swift-tach-loader-counterweight-ballast-calculator",
+    "title": "Kubota B2601 / B2301 (LA435 Swift-Tach Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (680 lbs / 7 bags concrete), 75% rear tire liquid fill (27.0 gal = 292 lbs Beet Juice), and 550-lb pallet fork capacity for Kubota B2601 / B2301 (LA435 Swift-Tach Loader).",
+    "box_lbs": 680,
+    "gal_pair": 27.0,
+    "beet_lbs": 292,
+    "date": "2026-11-11"
+  },
+  {
+    "tractor_name": "Kubota LX2610 / LX3310 (LA535 Front-End Loader)",
+    "slug": "kubota-lx2610-lx3310-la535-front-end-loader-counterweight-ballast-calculator",
+    "title": "Kubota LX2610 / LX3310 (LA535 Front-End Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (850 lbs / 9 bags concrete), 75% rear tire liquid fill (42.0 gal = 454 lbs Beet Juice), and 680-lb pallet fork capacity for Kubota LX2610 / LX3310 (LA535 Front-End Loader).",
+    "box_lbs": 850,
+    "gal_pair": 42.0,
+    "beet_lbs": 454,
+    "date": "2026-11-11"
+  },
+  {
+    "tractor_name": "Kubota L4701 / L4802 (LA765 / LA766 Heavy Loader)",
+    "slug": "kubota-l4701-l4802-la765-la766-heavy-loader-counterweight-ballast-calculator",
+    "title": "Kubota L4701 / L4802 (LA765 / LA766 Heavy Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,210 lbs / 14 bags concrete), 75% rear tire liquid fill (72.0 gal = 778 lbs Beet Juice), and 980-lb pallet fork capacity for Kubota L4701 / L4802 (LA765 / LA766 Heavy Loader).",
+    "box_lbs": 1210,
+    "gal_pair": 72.0,
+    "beet_lbs": 778,
+    "date": "2026-11-11"
   }
 ]
