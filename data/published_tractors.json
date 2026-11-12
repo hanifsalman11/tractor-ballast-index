@@ -118,5 +118,35 @@
     "gal_pair": 84.0,
     "beet_lbs": 907,
     "date": "2026-11-12"
+  },
+  {
+    "tractor_name": "Kioti CK2610 / CK2620 / CK3510 (KL4030 Loader)",
+    "slug": "kioti-ck2610-ck2620-ck3510-kl4030-loader-counterweight-ballast-calculator",
+    "title": "Kioti CK2610 / CK2620 / CK3510 (KL4030 Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,320 lbs / 15 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 1060-lb pallet fork capacity for Kioti CK2610 / CK2620 / CK3510 (KL4030 Loader).",
+    "box_lbs": 1320,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-12"
+  },
+  {
+    "tractor_name": "Kioti CX2510 Compact (KL2510 Front-End Loader)",
+    "slug": "kioti-cx2510-compact-kl2510-front-end-loader-counterweight-ballast-calculator",
+    "title": "Kioti CX2510 Compact (KL2510 Front-End Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (790 lbs / 9 bags concrete), 75% rear tire liquid fill (27.0 gal = 292 lbs Beet Juice), and 630-lb pallet fork capacity for Kioti CX2510 Compact (KL2510 Front-End Loader).",
+    "box_lbs": 790,
+    "gal_pair": 27.0,
+    "beet_lbs": 292,
+    "date": "2026-11-12"
+  },
+  {
+    "tractor_name": "Kioti DK4710SE / DK5310SE (KL5520 Heavy Loader)",
+    "slug": "kioti-dk4710se-dk5310se-kl5520-heavy-loader-counterweight-ballast-calculator",
+    "title": "Kioti DK4710SE / DK5310SE (KL5520 Heavy Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,780 lbs / 21 bags concrete), 75% rear tire liquid fill (76.0 gal = 821 lbs Beet Juice), and 1430-lb pallet fork capacity for Kioti DK4710SE / DK5310SE (KL5520 Heavy Loader).",
+    "box_lbs": 1780,
+    "gal_pair": 76.0,
+    "beet_lbs": 821,
+    "date": "2026-11-12"
   }
 ]
