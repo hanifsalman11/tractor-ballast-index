@@ -88,5 +88,35 @@
     "gal_pair": 30.0,
     "beet_lbs": 324,
     "date": "2026-11-11"
+  },
+  {
+    "tractor_name": "John Deere 3025E / 3032E / 3038E (300E Loader)",
+    "slug": "john-deere-3025e-3032e-3038e-300e-loader-counterweight-ballast-calculator",
+    "title": "John Deere 3025E / 3032E / 3038E (300E Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (850 lbs / 9 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 690-lb pallet fork capacity for John Deere 3025E / 3032E / 3038E (300E Loader).",
+    "box_lbs": 850,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-12"
+  },
+  {
+    "tractor_name": "John Deere 3033R / 3039R / 3046R (320R Loader)",
+    "slug": "john-deere-3033r-3039r-3046r-320r-loader-counterweight-ballast-calculator",
+    "title": "John Deere 3033R / 3039R / 3046R (320R Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,150 lbs / 13 bags concrete), 75% rear tire liquid fill (48.0 gal = 518 lbs Beet Juice), and 930-lb pallet fork capacity for John Deere 3033R / 3039R / 3046R (320R Loader).",
+    "box_lbs": 1150,
+    "gal_pair": 48.0,
+    "beet_lbs": 518,
+    "date": "2026-11-12"
+  },
+  {
+    "tractor_name": "John Deere 4044M / 4052M / 4066M (400E / 440R Loader)",
+    "slug": "john-deere-4044m-4052m-4066m-400e-440r-loader-counterweight-ballast-calculator",
+    "title": "John Deere 4044M / 4052M / 4066M (400E / 440R Loader) Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,810 lbs / 21 bags concrete), 75% rear tire liquid fill (84.0 gal = 907 lbs Beet Juice), and 1460-lb pallet fork capacity for John Deere 4044M / 4052M / 4066M (400E / 440R Loader).",
+    "box_lbs": 1810,
+    "gal_pair": 84.0,
+    "beet_lbs": 907,
+    "date": "2026-11-12"
   }
 ]
