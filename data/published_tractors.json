@@ -238,5 +238,35 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "Titan Attachments vs Yitamotor 800-Lb 3-Point Ballast Box",
+    "slug": "titan-attachments-vs-yitamotor-800-lb-3-point-ballast-box-counterweight-ballast-calculator",
+    "title": "Titan Attachments vs Yitamotor 800-Lb 3-Point Ballast Box Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for Titan Attachments vs Yitamotor 800-Lb 3-Point Ballast Box.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "Rim Guard Beet Juice (11 lb/gal) vs Washer Fluid Tire Ballast",
+    "slug": "rim-guard-beet-juice-11-lbgal-vs-washer-fluid-tire-ballast-counterweight-ballast-calculator",
+    "title": "Rim Guard Beet Juice (11 lb/gal) vs Washer Fluid Tire Ballast Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,010 lbs / 11 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 810-lb pallet fork capacity for Rim Guard Beet Juice (11 lb/gal) vs Washer Fluid Tire Ballast.",
+    "box_lbs": 1010,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "15-19.5 R4 & 11.2-24 R1 Tractor Tire Liquid Ballast Chart",
+    "slug": "15-195-r4-112-24-r1-tractor-tire-liquid-ballast-chart-counterweight-ballast-calculator",
+    "title": "15-19.5 R4 & 11.2-24 R1 Tractor Tire Liquid Ballast Chart Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (970 lbs / 11 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 780-lb pallet fork capacity for 15-19.5 R4 & 11.2-24 R1 Tractor Tire Liquid Ballast Chart.",
+    "box_lbs": 970,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-14"
   }
 ]
