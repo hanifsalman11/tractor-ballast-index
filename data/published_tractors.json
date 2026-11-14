@@ -208,5 +208,35 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-13"
+  },
+  {
+    "tractor_name": "New Holland Workmaster 25 & Boomer 35/40 Loader",
+    "slug": "new-holland-workmaster-25-boomer-3540-loader-counterweight-ballast-calculator",
+    "title": "New Holland Workmaster 25 & Boomer 35/40 Loader Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,080 lbs / 12 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 870-lb pallet fork capacity for New Holland Workmaster 25 & Boomer 35/40 Loader.",
+    "box_lbs": 1080,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "Bad Boy 3026 & 4035 Compact Tractor Loader Sizing",
+    "slug": "bad-boy-3026-4035-compact-tractor-loader-sizing-counterweight-ballast-calculator",
+    "title": "Bad Boy 3026 & 4035 Compact Tractor Loader Sizing Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,140 lbs / 13 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 920-lb pallet fork capacity for Bad Boy 3026 & 4035 Compact Tractor Loader Sizing.",
+    "box_lbs": 1140,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "5 Cu. Ft. Category 1 3-Point Hitch Steel Ballast Box Fill",
+    "slug": "5-cu-ft-category-1-3-point-hitch-steel-ballast-box-fill-counterweight-ballast-calculator",
+    "title": "5 Cu. Ft. Category 1 3-Point Hitch Steel Ballast Box Fill Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (900 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 720-lb pallet fork capacity for 5 Cu. Ft. Category 1 3-Point Hitch Steel Ballast Box Fill.",
+    "box_lbs": 900,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-14"
   }
 ]
