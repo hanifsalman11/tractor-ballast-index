@@ -268,5 +268,35 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "26×12.00-12 & 12-16.5 Sub-Compact Tire Liquid Ballast",
+    "slug": "261200-12-12-165-sub-compact-tire-liquid-ballast-counterweight-ballast-calculator",
+    "title": "26×12.00-12 & 12-16.5 Sub-Compact Tire Liquid Ballast Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (610 lbs / 6 bags concrete), 75% rear tire liquid fill (27.0 gal = 292 lbs Beet Juice), and 490-lb pallet fork capacity for 26×12.00-12 & 12-16.5 Sub-Compact Tire Liquid Ballast.",
+    "box_lbs": 610,
+    "gal_pair": 27.0,
+    "beet_lbs": 292,
+    "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "17.5L-24 & 16.9-24 Utility Tractor Tire Liquid Ballast",
+    "slug": "175l-24-169-24-utility-tractor-tire-liquid-ballast-counterweight-ballast-calculator",
+    "title": "17.5L-24 & 16.9-24 Utility Tractor Tire Liquid Ballast Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,510 lbs / 18 bags concrete), 75% rear tire liquid fill (72.0 gal = 778 lbs Beet Juice), and 1220-lb pallet fork capacity for 17.5L-24 & 16.9-24 Utility Tractor Tire Liquid Ballast.",
+    "box_lbs": 1510,
+    "gal_pair": 72.0,
+    "beet_lbs": 778,
+    "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "Clamp-On Pallet Forks Leverage Derating & Rear Ballast",
+    "slug": "clamp-on-pallet-forks-leverage-derating-rear-ballast-counterweight-ballast-calculator",
+    "title": "Clamp-On Pallet Forks Leverage Derating & Rear Ballast Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for Clamp-On Pallet Forks Leverage Derating & Rear Ballast.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-14"
   }
 ]
