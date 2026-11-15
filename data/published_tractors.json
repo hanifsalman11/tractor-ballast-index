@@ -298,5 +298,35 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-14"
+  },
+  {
+    "tractor_name": "Tractor Ballast",
+    "slug": "tractor-ballast-counterweight-ballast-calculator",
+    "title": "Tractor Ballast Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for Tractor Ballast.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-15"
+  },
+  {
+    "tractor_name": "Tractor Tire Ballast",
+    "slug": "tractor-tire-ballast-counterweight-ballast-calculator",
+    "title": "Tractor Tire Ballast Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for Tractor Tire Ballast.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-15"
+  },
+  {
+    "tractor_name": "Tractor Ballast Weight",
+    "slug": "tractor-ballast-weight-counterweight-ballast-calculator",
+    "title": "Tractor Ballast Weight Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for Tractor Ballast Weight.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-15"
   }
 ]
