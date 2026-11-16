@@ -358,5 +358,35 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-15"
+  },
+  {
+    "tractor_name": "0.5 M3 Concrete",
+    "slug": "05-m3-concrete-counterweight-ballast-calculator",
+    "title": "0.5 M3 Concrete Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for 0.5 M3 Concrete.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-16"
+  },
+  {
+    "tractor_name": "2M3 Concrete",
+    "slug": "2m3-concrete-counterweight-ballast-calculator",
+    "title": "2M3 Concrete Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for 2M3 Concrete.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-16"
+  },
+  {
+    "tractor_name": "3M3 Of Concrete",
+    "slug": "3m3-of-concrete-counterweight-ballast-calculator",
+    "title": "3M3 Of Concrete Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for 3M3 Of Concrete.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-16"
   }
 ]
