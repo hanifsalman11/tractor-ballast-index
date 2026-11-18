@@ -508,5 +508,35 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-18"
+  },
+  {
+    "tractor_name": "John Deere Ballast Box",
+    "slug": "john-deere-ballast-box-counterweight-ballast-calculator",
+    "title": "John Deere Ballast Box Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for John Deere Ballast Box.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-18"
+  },
+  {
+    "tractor_name": "John Deere Ballast Box Extension",
+    "slug": "john-deere-ballast-box-extension-counterweight-ballast-calculator",
+    "title": "John Deere Ballast Box Extension Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for John Deere Ballast Box Extension.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-18"
+  },
+  {
+    "tractor_name": "John Deere Ballast Box Bw15073",
+    "slug": "john-deere-ballast-box-bw15073-counterweight-ballast-calculator",
+    "title": "John Deere Ballast Box Bw15073 Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for John Deere Ballast Box Bw15073.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-18"
   }
 ]
