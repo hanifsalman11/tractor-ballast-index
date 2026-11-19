@@ -538,5 +538,35 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-18"
+  },
+  {
+    "tractor_name": "John Deere Ballast Box Specs",
+    "slug": "john-deere-ballast-box-specs-counterweight-ballast-calculator",
+    "title": "John Deere Ballast Box Specs Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for John Deere Ballast Box Specs.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-19"
+  },
+  {
+    "tractor_name": "John Deere Ballast Box Imatch",
+    "slug": "john-deere-ballast-box-imatch-counterweight-ballast-calculator",
+    "title": "John Deere Ballast Box Imatch Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for John Deere Ballast Box Imatch.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-19"
+  },
+  {
+    "tractor_name": "750-Lb Sub-Compact Loader with 26×12.00-12 Turf/R4 Tires",
+    "slug": "750-lb-sub-compact-loader-with-261200-12-turfr4-tires-counterweight-ballast-calculator",
+    "title": "750-Lb Sub-Compact Loader with 26×12.00-12 Turf/R4 Tires Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (540 lbs / 6 bags concrete), 75% rear tire liquid fill (15.0 gal = 162 lbs Beet Juice), and 430-lb pallet fork capacity for 750-Lb Sub-Compact Loader with 26×12.00-12 Turf/R4 Tires.",
+    "box_lbs": 540,
+    "gal_pair": 15.0,
+    "beet_lbs": 162,
+    "date": "2026-11-19"
   }
 ]
