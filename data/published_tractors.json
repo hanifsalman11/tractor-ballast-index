@@ -588,5 +588,15 @@
     "gal_pair": 44.0,
     "beet_lbs": 475,
     "date": "2026-11-20"
+  },
+  {
+    "tractor_name": "750-Lb Sub-Compact Loader with 17.5L-24 / 16.9-24 R4 Tires",
+    "slug": "750-lb-sub-compact-loader-with-175l-24-169-24-r4-tires-counterweight-ballast-calculator",
+    "title": "750-Lb Sub-Compact Loader with 17.5L-24 / 16.9-24 R4 Tires Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (540 lbs / 6 bags concrete), 75% rear tire liquid fill (76.0 gal = 821 lbs Beet Juice), and 430-lb pallet fork capacity for 750-Lb Sub-Compact Loader with 17.5L-24 / 16.9-24 R4 Tires.",
+    "box_lbs": 540,
+    "gal_pair": 76.0,
+    "beet_lbs": 821,
+    "date": "2026-11-20"
   }
 ]
