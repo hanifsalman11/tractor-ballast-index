@@ -718,5 +718,25 @@
     "gal_pair": 27.0,
     "beet_lbs": 292,
     "date": "2026-11-25"
+  },
+  {
+    "tractor_name": "1 Cube Of Concrete",
+    "slug": "1-cube-of-concrete-counterweight-ballast-calculator",
+    "title": "1 Cube Of Concrete Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (860 lbs / 10 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 700-lb pallet fork capacity for 1 Cube Of Concrete.",
+    "box_lbs": 860,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-26"
+  },
+  {
+    "tractor_name": "1,650-Lb Heavy Compact Loader with 15-19.5 R4 / 11.2-24 R1 Tires",
+    "slug": "1650-lb-heavy-compact-loader-with-15-195-r4-112-24-r1-tires-counterweight-ballast-calculator",
+    "title": "1,650-Lb Heavy Compact Loader with 15-19.5 R4 / 11.2-24 R1 Tires Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,190 lbs / 14 bags concrete), 75% rear tire liquid fill (44.0 gal = 475 lbs Beet Juice), and 960-lb pallet fork capacity for 1,650-Lb Heavy Compact Loader with 15-19.5 R4 / 11.2-24 R1 Tires.",
+    "box_lbs": 1190,
+    "gal_pair": 44.0,
+    "beet_lbs": 475,
+    "date": "2026-11-26"
   }
 ]
