@@ -758,5 +758,15 @@
     "gal_pair": 15.0,
     "beet_lbs": 162,
     "date": "2026-11-27"
+  },
+  {
+    "tractor_name": "2,200-Lb Utility Tractor Loader with 12-16.5 R4 Industrial Tires",
+    "slug": "2200-lb-utility-tractor-loader-with-12-165-r4-industrial-tires-counterweight-ballast-calculator",
+    "title": "2,200-Lb Utility Tractor Loader with 12-16.5 R4 Industrial Tires Rear Ballast Box, Tire Liquid & Counterweight Calculator (2026)",
+    "description": "Calculate exact 3-point hitch ballast box weight (1,580 lbs / 19 bags concrete), 75% rear tire liquid fill (27.0 gal = 292 lbs Beet Juice), and 1280-lb pallet fork capacity for 2,200-Lb Utility Tractor Loader with 12-16.5 R4 Industrial Tires.",
+    "box_lbs": 1580,
+    "gal_pair": 27.0,
+    "beet_lbs": 292,
+    "date": "2026-11-27"
   }
 ]
